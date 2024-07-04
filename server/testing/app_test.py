@@ -42,7 +42,7 @@ class TestApp:
             db.session.commit()
 
             response = app.test_client().get(
-                f'/restaurants/{restaurant.id}')
+            '/restaurants/{}'.format(restaurant.id))
             assert response.status_code == 200
             assert response.content_type == 'application/json'
             response = response.json

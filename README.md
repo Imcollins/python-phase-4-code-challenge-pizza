@@ -25,7 +25,8 @@ pressing the `Import` button.
 Select `Upload Files`, navigate to this repo folder, and select
 `challenge-1-pizzas.postman_collection.json` as the file to import.
 
-## Setup
+## SetupTwx4bj_2v50
+
 
 The instructions assume you changed into the `code-challenge` folder **prior**
 to opening the code editor.
