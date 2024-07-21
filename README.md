@@ -1,5 +1,9 @@
 # Phase 4 Code Challenge: Pizza Restaurants (Updated)
 
+Live video link
+https://youtu.be/mnplJgzf0-I?si=f-cTnNyzpdZZXTda
+
+
 In this code challenge, you'll be working with a Pizza Restaurant domain.
 
 In this repo:
